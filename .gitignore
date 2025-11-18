@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# Git
+*.patch
+
+# Others
+*.log
+coverage/
+dist/
+build/
