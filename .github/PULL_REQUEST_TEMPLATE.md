@@ -10,8 +10,7 @@ and prepares the repository for proper branching, version control, and collabora
 - Added `CHANGELOG.md` with initial placeholders for version tracking  
 - Added `docs/tasks.md` to document Task 4 steps, commit history, and notes  
 - Added `.github/PULL_REQUEST_TEMPLATE.md` for standardized PR formatting  
-- Added `LICENSE` file placeholder (to be updated with selected license)  
-- Added sample file (`sample-file.txt`) for commit demonstration  
+- Added `LICENSE` file placeholder (to be updated with selected license) 
 
 ## Related issues / tasks
 - Task 4: Build a Version-Controlled DevOps Project with Git  
